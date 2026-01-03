@@ -2,12 +2,14 @@
 
 Welcome to the Minecraft Bedrock Modding GitHub Organization! 🎮✨
 
-This organization is dedicated to developing, and sharing mods for Minecraft Bedrock Edition (Pocket Edition), with a primary focus on LeviLauncher / LeviLaunchroid.
+This organization is dedicated to developing, and sharing mods for Minecraft Bedrock Edition (Pocket Edition),
+with a primary focus on LeviLauncher / LeviLaunchroid.
 
 🚀 About Us
 
-We are a group of developers and enthusiasts passionate about Minecraft Bedrock modding, especially low-level and 
-advanced techniques such as native code (C/C++), resource manipulation, hooks, and launcher-based modding.
+We are a group of developers and enthusiasts passionate about Minecraft Bedrock modding,
+especially low-level and advanced techniques such as native code (C/C++),
+resource manipulation, hooks, and launcher-based modding.
 
 
 🛠️ Modding Focus
